@@ -1,1 +1,1 @@
-# Blogify
+This is a Blogify web-app in which user can sign-in or log-in to the app can create blogs by uploading images and writing some content about the blog. Users can also write comments on their own blog or someone else's blog.
